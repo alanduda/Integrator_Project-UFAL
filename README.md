@@ -26,10 +26,10 @@
 
 As bases de dados utilizadas para solução do problema do caixeiro viajante foram retiradas do [*The Department Of Scientific Computing*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/cities.html), são elas:
  - [*SH07*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sh07_dist.txt);
- - [*P11*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sp11_dist.txt);
- - [*K12*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/uk12_dist.txt);
- - [*AU15*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/lau15_dist.txt);
- - [*G22*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/wg22_dist.txt);
- - [*G59*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/wg59_dist.txt);
- - [*GB128*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sgb128_dist.txt);
- - [*SCA312*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/usca312_dist.txt).
+ - [*SP11*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sp11_dist.txt);
+ - [*UK12*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/uk12_dist.txt);
+ - [*LAU15*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/lau15_dist.txt);
+ - [*WG22*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/wg22_dist.txt);
+ - [*WG59*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/wg59_dist.txt);
+ - [*SGB128*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sgb128_dist.txt);
+ - [*USCA312*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/usca312_dist.txt).
