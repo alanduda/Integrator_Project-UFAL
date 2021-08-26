@@ -16,7 +16,7 @@
 
 **Software necessário:** Todo o projeto está rodando em Arch Linux x64 5.10.0.17-1 (recomendado).
 
-**Disponibilidade:** Disponível no [*GitHub*](https://github.com/alanduda/Integrator_Project-UFAL);.
+**Disponibilidade:** Disponível no [*GitHub*](https://github.com/alanduda/Integrator_Project-UFAL);
 
 **Custo:** Todas as ferramentas utilizadas são gratuitas.
 
