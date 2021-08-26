@@ -5,7 +5,7 @@
 <b>Contato:</b>
   - Alan Duda (alan.duda@arapiraca.ufal.br);
   - Crislaine Costa (crislaine.costa@arapiraca.ufal.br);
-  - Ivillys Gomes ( ).
+  - Ivillys Gomes (ivillys.silva@arapiraca.ufal.br).
 
 <b>Endereço:</b>
 Av. Manoel Severino Barbosa - Bom Sucesso, Arapiraca - AL, 57309-005.
