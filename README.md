@@ -24,7 +24,7 @@
 
 <h3>Bases de dados</h3>
 
-As bases de dados utilizadas para solução do problema do caixeiro viajante foram retiradas dos  [*The Department Of Scientific Computing*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/cities.html), são elas:
+As bases de dados utilizadas para solução do problema do caixeiro viajante foram retiradas do [*The Department Of Scientific Computing*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/cities.html), são elas:
  - [*SH07*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sh07_dist.txt);
  - [*P11*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sp11_dist.txt);
  - [*K12*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/uk12_dist.txt);
