@@ -10,13 +10,13 @@
 **Endereço:** 
 [Av. Manoel Severino Barbosa - Bom Sucesso, Arapiraca - AL, 57309-005](https://www.google.com/maps/place/UFAL,+Campus+de+Arapiraca/@-9.7013428,-36.6880506,18z/data=!4m5!3m4!1s0x0:0xc680c05ae30667fc!8m2!3d-9.7012582!4d-36.6873613!5m1!1e2).
 
-**Primeiro ano disponível:** XXXX.
+**Primeiro ano disponível:** 2021.
 
 **Hardware sugerido:** XXXX.
 
 **Software necessário:** Todo o projeto está rodando em Arch Linux x64 5.10.0.17-1 (recomendado).
 
-**Disponibilidade:** Disponível no XXXXXX. As bases de dados utilizadas também devem estar disponíveis.  
+**Disponibilidade:** Disponível no [*GitHub*](https://github.com/alanduda/Integrator_Project-UFAL);.
 
 **Custo:** Todas as ferramentas utilizadas são gratuitas.
 
