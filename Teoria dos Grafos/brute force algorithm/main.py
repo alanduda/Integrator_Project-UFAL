@@ -3,10 +3,7 @@ from sys import maxsize
 V = 4
 
 # implementation of traveling Salesman Problem
-
-
 def travellingSalesmanProblem(graph, source):
-
     # store all vertex apart from source vertex
     vertex = []
     for i in range(len(graph)):
@@ -17,7 +14,6 @@ def travellingSalesmanProblem(graph, source):
     min_path = maxsize
 
     while True:
-
         # store current Path weight(cost)
         current_pathweight = 0
 
@@ -37,10 +33,7 @@ def travellingSalesmanProblem(graph, source):
     return min_path
 
 # next_permutation implementation
-
-
 def next_permutation(L):
-
     n = len(L)
 
     i = n - 2
@@ -67,10 +60,8 @@ def next_permutation(L):
 
     return True
 
-
 # Driver Code
 if __name__ == "__main__":
-
     # matrix representation of graph
     graph = readFile('inputs/sh07_dist.txt')
     source = 0
