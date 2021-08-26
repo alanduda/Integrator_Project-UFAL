@@ -31,12 +31,12 @@ Av. Manoel Severino Barbosa - Bom Sucesso, Arapiraca - AL, 57309-005.
 Bases de dados
 
 As bases de dados utilizadas para solução do problema do caixeiro viajante foram retiradas dos  [*The Department Of Scientific Computing*](https://people.sc.fsu.edu/~jburkardt/datasets/cities/cities.html), são elas:
- - LAU15;
- - SGB128;
- - SH07;
- - SP11;
- - UK12;
- - USCA312;
- - WG22;
- - WG59. 
+ - [SH07](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sh07_dist.txt);
+ - [P11](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sp11_dist.txt);
+ - [K12](https://people.sc.fsu.edu/~jburkardt/datasets/cities/uk12_dist.txt);
+ - [AU15](https://people.sc.fsu.edu/~jburkardt/datasets/cities/lau15_dist.txt);
+ - [G22](https://people.sc.fsu.edu/~jburkardt/datasets/cities/wg22_dist.txt);
+ - [G59](https://people.sc.fsu.edu/~jburkardt/datasets/cities/wg59_dist.txt);
+ - [GB128](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sgb128_dist.txt);
+ - [SCA312](https://people.sc.fsu.edu/~jburkardt/datasets/cities/usca312_dist.txt).
 
