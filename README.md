@@ -4,7 +4,7 @@
 
 <b>Contato:</b>
   - Alan Duda (alan.duda@arapiraca.ufal.br);
-  - Crislaine Costa ( );
+  - Crislaine Costa (crislaine.costa@arapiraca.ufal.br);
   - Ivillys Gomes ( ).
 
 <b>Endereço:</b>
