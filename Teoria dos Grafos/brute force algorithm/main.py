@@ -1,6 +1,5 @@
 from utils.readFile import readFile
 from sys import maxsize
-V = 4
 
 # implementation of traveling Salesman Problem
 def travellingSalesmanProblem(graph, source):
