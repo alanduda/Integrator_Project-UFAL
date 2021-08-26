@@ -1,4 +1,4 @@
-# Porjeto Integrador
+# Projeto Integrador
 
 <b>Nome do software:</b> Cousin Express.
 
