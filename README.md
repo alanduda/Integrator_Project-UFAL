@@ -1,6 +1,6 @@
 # Projeto Integrador
 
-<b>Nome do software:</b> Cousin Express.
+<b>Nome do software:</b> *Cousin Express*.
 
 <b>Contato:</b>
   - Alan Duda (alan.duda@arapiraca.ufal.br);
