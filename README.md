@@ -5,7 +5,7 @@
 <b>Contato:</b>
   - Alan Duda (alan.duda@arapiraca.ufal.br);
   - Crislaine Costa (crislaine.costa@arapiraca.ufal.br);
-  - Ivillys Gomes (ivillys.silva@arapiraca.ufal.br).
+  - Ivillys Gomes ( ).
 
 <b>Endereço:</b>
 Av. Manoel Severino Barbosa - Bom Sucesso, Arapiraca - AL, 57309-005.
@@ -15,7 +15,6 @@ Av. Manoel Severino Barbosa - Bom Sucesso, Arapiraca - AL, 57309-005.
 </a>
 
 <span>clique na imagem para ir para o endereço</span>
-
 
 <b>Primeiro ano disponível:</b> XXXX.
 
@@ -27,5 +26,17 @@ Av. Manoel Severino Barbosa - Bom Sucesso, Arapiraca - AL, 57309-005.
 
 <b>Custo:</b> Todas as ferramentas utilizadas são gratuitas.
 
-
 <h2>Teoria dos grafos</h2>
+
+Bases de dados
+
+As bases de dados utilizadas para solução do problema do caixeiro viajante foram retiradas dos site https://people.sc.fsu.edu/~jburkardt/datasets/cities/cities.html, são elas:
+ - LAU15;
+ - SGB128;
+ - SH07;
+ - SP11;
+ - UK12;
+ - USCA312;
+ - WG22;
+ - WG59. 
+
