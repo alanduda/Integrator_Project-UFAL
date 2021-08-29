@@ -12,7 +12,7 @@
 
 **Primeiro ano disponível:** 2021.
 
-**Hardware sugerido:** processador 3,6 GHz AMD Ryzen™ 3 3200G, 16 GB 1700 MHz DDR4 (2 × 8 GB), HD 1 TB e SSD 256 GB, e sistema operacional Arch Linux.
+**Hardware sugerido:** processador 3,6 GHz AMD Ryzen™ 3 3200G, 16 GB 1700 MHz DDR4 (2 × 8 GB), HD 1 TB e SSD 256 GB, e sistema operacional Arch Linux 5.13.6.
 
 **Software necessário:** Todo o projeto está rodando em Arch Linux x64 5.10.0.17-1 (recomendado).
 
