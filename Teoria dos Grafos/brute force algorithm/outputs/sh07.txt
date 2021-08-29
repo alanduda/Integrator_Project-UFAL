@@ -1,0 +1,2 @@
+custo_total - 106.4
+tempo - 0.124
