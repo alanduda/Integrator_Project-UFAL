@@ -3,17 +3,16 @@ from itertools import permutations
 
 #Travelling Salesman problem solution with brute force
 def bruteForce(graph, source):
- 
+    
+    # armazena todos os vértices menos o vértice de origem
     vertex = []
     for i in range(len(graph)):
-        # armazena todos os vértices menos o vértice de origem
         if i != source:
             vertex.append(i)
       
     # armazenar peso mínimo do ciclo hamiltoniano
     min_path = maxsize
 
-    # Armazena o melhor caminho
 
     next_permutation=permutations(vertex)
     for i in next_permutation:
@@ -27,14 +26,18 @@ def bruteForce(graph, source):
             current_pathweight += float(graph[k][j])
             k = j
         current_pathweight += float(graph[k][source])
+        
         newMinPath = min(min_path, current_pathweight)
         # verificar se o path antigo é maior que o path atual
         if(min_path > newMinPath):
             # atualiza o peso do caminho mínimo
             min_path = min(min_path, current_pathweight)
             pathMin = i
-        
+
+
+    # Armazena o melhor caminho  
     bestPath = []
+
     for vertices in pathMin:
        bestPath.append(vertices)
     
