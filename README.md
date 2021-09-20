@@ -18,6 +18,8 @@
 
 **Disponibilidade:** Disponível no [*GitHub*](https://github.com/alanduda/Integrator_Project-UFAL);
 
+**Relatório das atividades:** https://docs.google.com/document/d/15LAle9SPzOYeXAbHyg-rEm7lYGFL2LwyaeyLkiR7Ys8;
+
 **Custo:** Todas as ferramentas utilizadas são gratuitas.
 
 <h2>Teoria dos grafos</h2>
